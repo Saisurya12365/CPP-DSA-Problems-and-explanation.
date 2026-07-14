@@ -1,0 +1,56 @@
+class Solution {
+public:
+    bool searchMatrix(vector<vector<int>>& matrix, int target) {
+
+        for(int i=0;i<matrix.size();i++){
+          //  if(matrix[i]==target)return true;
+            for(int j=0;j<matrix[i].size();j++){
+                if(matrix[i][j]==target){
+                    return true;
+                }
+            }
+        }
+        return false;
+    }
+};
+
+explanation:
+for(int j = 0; j < matrix[i].size(); j++)
+Description (Simple)
+j = 0 → Start from the first column of the current row.
+j < matrix[i].size() → Continue until all columns in the current row have been visited.
+j++ → Move to the next column after checking the current one.
+In one sentence
+
+This loop traverses every column of the current row (i) in the matrix.
+
+Example
+matrix =
+{
+    {1, 3, 5},
+    {7, 9, 11},
+    {13, 15, 17}
+};
+
+If i = 1, then the current row is:
+
+{7, 9, 11}
+
+The loop runs like this:
+
+j = 0 → matrix[1][0] = 7
+j = 1 → matrix[1][1] = 9
+j = 2 → matrix[1][2] = 11
+
+After j = 2, j becomes 3.
+
+Now the condition:
+
+j < matrix[1].size()   // 3 < 3
+
+is false, so the inner loop stops and the outer loop moves to the next row.
+
+Remember:
+
+i represents the row index.
+j represents the column index.
