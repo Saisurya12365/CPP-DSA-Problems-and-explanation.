@@ -1,0 +1,50 @@
+class Solution {
+public:
+    vector<vector<int>> zigzagLevelOrder(TreeNode* root) {
+        vector<vector<int>> res;
+        if(root==NULL) return res;
+        queue<TreeNode*> q;
+        q.push(root);
+        bool flag=true;
+        while(!q.empty()){
+            int n=q.size();
+            vector<int> row(n);
+            for(int i=0;i<n;i++){
+                TreeNode* node=q.front();
+                q.pop();
+                int index=(flag) ? i:(n-i-1);
+                row[index]=node->val;
+                if(node->left) q.push(node->left);
+                if(node->right) q.push(node->right);
+            }
+            flag=!flag;
+            res.push_back(row);
+        }
+        return res;
+    }
+};
+Explanation:
+The function returns the nodes of a binary tree in zigzag level order.
+vector<vector<int>> res; stores the final answer.
+If root == NULL, return an empty vector because the tree has no nodes.
+A queue<TreeNode*> is used to perform Level Order Traversal (BFS).
+The root node is pushed into the queue.
+flag = true means traverse the current level from left to right.
+flag = false means traverse the current level from right to left.
+while(!q.empty()) processes the tree until all nodes are visited.
+n = q.size() gives the number of nodes in the current level.
+vector<int> row(n) creates a vector to store all node values of the current level.
+The for loop runs n times to process every node in that level.
+node = q.front() gets the front node from the queue.
+q.pop() removes the processed node from the queue.
+If flag is true, index = i, so values are stored from left to right.
+If flag is false, index = n - i - 1, so values are stored from right to left.
+row[index] = node->val places the node's value at the correct position.
+If the current node has a left child, it is pushed into the queue.
+If the current node has a right child, it is also pushed into the queue.
+After completing one level, flag = !flag changes the traversal direction for the next level.
+The completed row is added to res, and after all levels are processed, res is returned.
+Time Complexity
+O(N) — Every node is visited exactly once.
+Space Complexity
+O(N) — Queue and result vector together can store up to all nodes in the tree.
