@@ -1,0 +1,22 @@
+
+class Solution {
+public:
+    int maxDepth(TreeNode* root) {
+        if(root==NULL) return NULL;
+        int left=maxDepth(root->left);
+        int right=maxDepth(root->right);
+        return 1+max(left,right);
+    }
+};
+explanation:
+
+You are given the root of a binary tree.
+The goal is to find the maximum depth of the tree.
+Depth means the number of nodes from the root to the deepest leaf.
+If the tree is empty (root == NULL), the depth is 0.
+For each node, recursively find the depth of the left subtree.
+Then recursively find the depth of the right subtree.
+Compare both depths using max(left, right).
+Add 1 to include the current node.
+Return 1 + max(left, right) as the depth of the current node.
+The final answer is the maximum depth of the entire tree. Time Complexity: O(n), Space Complexity: O(h) (where h is the height of the tree due to recursion).
