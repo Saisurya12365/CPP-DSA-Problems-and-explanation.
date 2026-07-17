@@ -1,0 +1,32 @@
+class Solution {
+public:
+    int rob(vector<int>& nums) {
+        int n = nums.size();
+
+        if (n == 1) {
+            return nums[0];
+        }
+
+        vector<int> dp(n, 0);
+
+        dp[0] = nums[0];
+        dp[1] = max(nums[0], nums[1]);
+
+        for (int i = 2; i < n; i++) {
+            dp[i] = max(dp[i - 1], nums[i] + dp[i - 2]);
+        }
+
+        return dp[n - 1];        
+    }
+};
+Explanation:
+n = nums.size() stores the total number of houses.
+If there is only one house, return its money (nums[0]).
+Create a DP array dp of size n.
+dp[i] stores the maximum money that can be robbed from houses 0 to i.
+Initialize dp[0] = nums[0] because only the first house is available.
+Initialize dp[1] = max(nums[0], nums[1]) since you can rob only one of the first two houses.
+From i = 2 to n-1, consider each remaining house.
+If you skip the current house, the money is dp[i-1].
+If you rob the current house, the money is nums[i] + dp[i-2].
+Store the maximum of these two choices in dp[i] and return dp[n-1] as the final answer.
