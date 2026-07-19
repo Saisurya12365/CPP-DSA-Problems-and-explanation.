@@ -1,0 +1,23 @@
+class Solution {
+public:
+    int countSegments(string s) {
+        // Base case safety check for empty input string frames
+        if(s.size() == 0) return 0;
+
+        int words = 0;
+
+        // Linear sweep tracking the trailing edges where a word transitions to a space
+        for(int i = 1; i < s.size(); i++) {
+            if(s[i] == ' ' && s[i-1] != ' ') {
+                words++;
+            }
+        }
+
+        // Catch the final word edge case if the string doesn't terminate with a space
+        if(s.back() != ' ') {
+            words++;
+        }
+
+        return words;
+    }
+};  
