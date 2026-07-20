@@ -1,0 +1,31 @@
+class Solution {
+public:
+    ListNode* removeElements(ListNode* head, int val) {
+
+        // Remove matching nodes from the beginning
+        while (head != nullptr && head->val == val) {
+            head = head->next;
+        }
+
+        // If the list becomes empty
+        if (head == nullptr) {
+            return nullptr;
+        }
+
+        ListNode* prev = head;
+        ListNode* current = head->next;
+
+        while (current != nullptr) {
+
+            if (current->val == val) {
+                prev->next = current->next;
+            } else {
+                prev = current;
+            }
+
+            current = current->next;
+        }
+
+        return head;
+    }
+};
