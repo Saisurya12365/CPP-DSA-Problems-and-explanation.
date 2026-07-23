@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/Saisurya12365/CPP-DSA-Problems-and-explanation./tree/master/0130-surrounded-regions) |
 | [0135-candy](https://github.com/Saisurya12365/CPP-DSA-Problems-and-explanation./tree/master/0135-candy) |
 | [0435-non-overlapping-intervals](https://github.com/Saisurya12365/CPP-DSA-Problems-and-explanation./tree/master/0435-non-overlapping-intervals) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/Saisurya12365/CPP-DSA-Problems-and-explanation./tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Greedy
 |  |
 | ------- |
@@ -34,12 +35,23 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/Saisurya12365/CPP-DSA-Problems-and-explanation./tree/master/0130-surrounded-regions) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/Saisurya12365/CPP-DSA-Problems-and-explanation./tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Union-Find
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/Saisurya12365/CPP-DSA-Problems-and-explanation./tree/master/0130-surrounded-regions) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/Saisurya12365/CPP-DSA-Problems-and-explanation./tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Matrix
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/Saisurya12365/CPP-DSA-Problems-and-explanation./tree/master/0130-surrounded-regions) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/Saisurya12365/CPP-DSA-Problems-and-explanation./tree/master/2812-find-the-safest-path-in-a-grid) |
+## Binary Search
+|  |
+| ------- |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/Saisurya12365/CPP-DSA-Problems-and-explanation./tree/master/2812-find-the-safest-path-in-a-grid) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/Saisurya12365/CPP-DSA-Problems-and-explanation./tree/master/2812-find-the-safest-path-in-a-grid) |
 <!---LeetCode Topics End-->
