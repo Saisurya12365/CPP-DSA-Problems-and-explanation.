@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0130-surrounded-regions](https://github.com/Saisurya12365/CPP-DSA-Problems-and-explanation./tree/master/0130-surrounded-regions) |
 | [0207-course-schedule](https://github.com/Saisurya12365/CPP-DSA-Problems-and-explanation./tree/master/0207-course-schedule) |
+| [0210-course-schedule-ii](https://github.com/Saisurya12365/CPP-DSA-Problems-and-explanation./tree/master/0210-course-schedule-ii) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Saisurya12365/CPP-DSA-Problems-and-explanation./tree/master/0787-cheapest-flights-within-k-stops) |
 | [1631-path-with-minimum-effort](https://github.com/Saisurya12365/CPP-DSA-Problems-and-explanation./tree/master/1631-path-with-minimum-effort) |
 ## Breadth-First Search
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0130-surrounded-regions](https://github.com/Saisurya12365/CPP-DSA-Problems-and-explanation./tree/master/0130-surrounded-regions) |
 | [0207-course-schedule](https://github.com/Saisurya12365/CPP-DSA-Problems-and-explanation./tree/master/0207-course-schedule) |
+| [0210-course-schedule-ii](https://github.com/Saisurya12365/CPP-DSA-Problems-and-explanation./tree/master/0210-course-schedule-ii) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Saisurya12365/CPP-DSA-Problems-and-explanation./tree/master/0787-cheapest-flights-within-k-stops) |
 | [1631-path-with-minimum-effort](https://github.com/Saisurya12365/CPP-DSA-Problems-and-explanation./tree/master/1631-path-with-minimum-effort) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Saisurya12365/CPP-DSA-Problems-and-explanation./tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -79,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/Saisurya12365/CPP-DSA-Problems-and-explanation./tree/master/0207-course-schedule) |
+| [0210-course-schedule-ii](https://github.com/Saisurya12365/CPP-DSA-Problems-and-explanation./tree/master/0210-course-schedule-ii) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Saisurya12365/CPP-DSA-Problems-and-explanation./tree/master/0787-cheapest-flights-within-k-stops) |
 ## Shortest Path
 |  |
@@ -88,4 +91,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/Saisurya12365/CPP-DSA-Problems-and-explanation./tree/master/0207-course-schedule) |
+| [0210-course-schedule-ii](https://github.com/Saisurya12365/CPP-DSA-Problems-and-explanation./tree/master/0210-course-schedule-ii) |
 <!---LeetCode Topics End-->
