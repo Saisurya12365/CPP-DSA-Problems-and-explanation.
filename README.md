@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0111-minimum-depth-of-binary-tree](https://github.com/Saisurya12365/CPP-DSA-Problems-and-explanation./tree/master/0111-minimum-depth-of-binary-tree) |
 | [0130-surrounded-regions](https://github.com/Saisurya12365/CPP-DSA-Problems-and-explanation./tree/master/0130-surrounded-regions) |
 | [0207-course-schedule](https://github.com/Saisurya12365/CPP-DSA-Problems-and-explanation./tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Saisurya12365/CPP-DSA-Problems-and-explanation./tree/master/0210-course-schedule-ii) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0111-minimum-depth-of-binary-tree](https://github.com/Saisurya12365/CPP-DSA-Problems-and-explanation./tree/master/0111-minimum-depth-of-binary-tree) |
 | [0130-surrounded-regions](https://github.com/Saisurya12365/CPP-DSA-Problems-and-explanation./tree/master/0130-surrounded-regions) |
 | [0207-course-schedule](https://github.com/Saisurya12365/CPP-DSA-Problems-and-explanation./tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Saisurya12365/CPP-DSA-Problems-and-explanation./tree/master/0210-course-schedule-ii) |
@@ -96,4 +98,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/Saisurya12365/CPP-DSA-Problems-and-explanation./tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Saisurya12365/CPP-DSA-Problems-and-explanation./tree/master/0210-course-schedule-ii) |
 | [0802-find-eventual-safe-states](https://github.com/Saisurya12365/CPP-DSA-Problems-and-explanation./tree/master/0802-find-eventual-safe-states) |
+## Tree
+|  |
+| ------- |
+| [0111-minimum-depth-of-binary-tree](https://github.com/Saisurya12365/CPP-DSA-Problems-and-explanation./tree/master/0111-minimum-depth-of-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0111-minimum-depth-of-binary-tree](https://github.com/Saisurya12365/CPP-DSA-Problems-and-explanation./tree/master/0111-minimum-depth-of-binary-tree) |
 <!---LeetCode Topics End-->
