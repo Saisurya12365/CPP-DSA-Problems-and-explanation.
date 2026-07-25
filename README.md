@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Saisurya12365/CPP-DSA-Problems-and-explanation./tree/master/0111-minimum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/Saisurya12365/CPP-DSA-Problems-and-explanation./tree/master/0112-path-sum) |
 | [0130-surrounded-regions](https://github.com/Saisurya12365/CPP-DSA-Problems-and-explanation./tree/master/0130-surrounded-regions) |
 | [0207-course-schedule](https://github.com/Saisurya12365/CPP-DSA-Problems-and-explanation./tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Saisurya12365/CPP-DSA-Problems-and-explanation./tree/master/0210-course-schedule-ii) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Saisurya12365/CPP-DSA-Problems-and-explanation./tree/master/0111-minimum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/Saisurya12365/CPP-DSA-Problems-and-explanation./tree/master/0112-path-sum) |
 | [0130-surrounded-regions](https://github.com/Saisurya12365/CPP-DSA-Problems-and-explanation./tree/master/0130-surrounded-regions) |
 | [0207-course-schedule](https://github.com/Saisurya12365/CPP-DSA-Problems-and-explanation./tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Saisurya12365/CPP-DSA-Problems-and-explanation./tree/master/0210-course-schedule-ii) |
@@ -102,8 +104,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Saisurya12365/CPP-DSA-Problems-and-explanation./tree/master/0111-minimum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/Saisurya12365/CPP-DSA-Problems-and-explanation./tree/master/0112-path-sum) |
 ## Binary Tree
 |  |
 | ------- |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Saisurya12365/CPP-DSA-Problems-and-explanation./tree/master/0111-minimum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/Saisurya12365/CPP-DSA-Problems-and-explanation./tree/master/0112-path-sum) |
 <!---LeetCode Topics End-->
