@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/Saisurya12365/CPP-DSA-Problems-and-explanation./tree/master/0130-surrounded-regions) |
 | [0207-course-schedule](https://github.com/Saisurya12365/CPP-DSA-Problems-and-explanation./tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Saisurya12365/CPP-DSA-Problems-and-explanation./tree/master/0210-course-schedule-ii) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/Saisurya12365/CPP-DSA-Problems-and-explanation./tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Saisurya12365/CPP-DSA-Problems-and-explanation./tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/Saisurya12365/CPP-DSA-Problems-and-explanation./tree/master/0802-find-eventual-safe-states) |
 | [1631-path-with-minimum-effort](https://github.com/Saisurya12365/CPP-DSA-Problems-and-explanation./tree/master/1631-path-with-minimum-effort) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/Saisurya12365/CPP-DSA-Problems-and-explanation./tree/master/0130-surrounded-regions) |
 | [0207-course-schedule](https://github.com/Saisurya12365/CPP-DSA-Problems-and-explanation./tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Saisurya12365/CPP-DSA-Problems-and-explanation./tree/master/0210-course-schedule-ii) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/Saisurya12365/CPP-DSA-Problems-and-explanation./tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Saisurya12365/CPP-DSA-Problems-and-explanation./tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/Saisurya12365/CPP-DSA-Problems-and-explanation./tree/master/0802-find-eventual-safe-states) |
 | [1631-path-with-minimum-effort](https://github.com/Saisurya12365/CPP-DSA-Problems-and-explanation./tree/master/1631-path-with-minimum-effort) |
@@ -113,13 +115,27 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Saisurya12365/CPP-DSA-Problems-and-explanation./tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Saisurya12365/CPP-DSA-Problems-and-explanation./tree/master/0112-path-sum) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/Saisurya12365/CPP-DSA-Problems-and-explanation./tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Binary Tree
 |  |
 | ------- |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Saisurya12365/CPP-DSA-Problems-and-explanation./tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Saisurya12365/CPP-DSA-Problems-and-explanation./tree/master/0112-path-sum) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/Saisurya12365/CPP-DSA-Problems-and-explanation./tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Math
 |  |
 | ------- |
 | [0628-maximum-product-of-three-numbers](https://github.com/Saisurya12365/CPP-DSA-Problems-and-explanation./tree/master/0628-maximum-product-of-three-numbers) |
+## Hash Table
+|  |
+| ------- |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/Saisurya12365/CPP-DSA-Problems-and-explanation./tree/master/0653-two-sum-iv-input-is-a-bst) |
+## Two Pointers
+|  |
+| ------- |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/Saisurya12365/CPP-DSA-Problems-and-explanation./tree/master/0653-two-sum-iv-input-is-a-bst) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/Saisurya12365/CPP-DSA-Problems-and-explanation./tree/master/0653-two-sum-iv-input-is-a-bst) |
 <!---LeetCode Topics End-->
