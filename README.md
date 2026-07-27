@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/Saisurya12365/CPP-DSA-Problems-and-explanation./tree/master/0130-surrounded-regions) |
 | [0135-candy](https://github.com/Saisurya12365/CPP-DSA-Problems-and-explanation./tree/master/0135-candy) |
 | [0435-non-overlapping-intervals](https://github.com/Saisurya12365/CPP-DSA-Problems-and-explanation./tree/master/0435-non-overlapping-intervals) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Saisurya12365/CPP-DSA-Problems-and-explanation./tree/master/0628-maximum-product-of-three-numbers) |
 | [1631-path-with-minimum-effort](https://github.com/Saisurya12365/CPP-DSA-Problems-and-explanation./tree/master/1631-path-with-minimum-effort) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Saisurya12365/CPP-DSA-Problems-and-explanation./tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Greedy
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0056-merge-intervals](https://github.com/Saisurya12365/CPP-DSA-Problems-and-explanation./tree/master/0056-merge-intervals) |
 | [0435-non-overlapping-intervals](https://github.com/Saisurya12365/CPP-DSA-Problems-and-explanation./tree/master/0435-non-overlapping-intervals) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Saisurya12365/CPP-DSA-Problems-and-explanation./tree/master/0628-maximum-product-of-three-numbers) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -110,4 +112,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Saisurya12365/CPP-DSA-Problems-and-explanation./tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Saisurya12365/CPP-DSA-Problems-and-explanation./tree/master/0112-path-sum) |
+## Math
+|  |
+| ------- |
+| [0628-maximum-product-of-three-numbers](https://github.com/Saisurya12365/CPP-DSA-Problems-and-explanation./tree/master/0628-maximum-product-of-three-numbers) |
 <!---LeetCode Topics End-->
