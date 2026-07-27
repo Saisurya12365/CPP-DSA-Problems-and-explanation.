@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/Saisurya12365/CPP-DSA-Problems-and-explanation./tree/master/0130-surrounded-regions) |
 | [0135-candy](https://github.com/Saisurya12365/CPP-DSA-Problems-and-explanation./tree/master/0135-candy) |
 | [0198-house-robber](https://github.com/Saisurya12365/CPP-DSA-Problems-and-explanation./tree/master/0198-house-robber) |
+| [0213-house-robber-ii](https://github.com/Saisurya12365/CPP-DSA-Problems-and-explanation./tree/master/0213-house-robber-ii) |
 | [0435-non-overlapping-intervals](https://github.com/Saisurya12365/CPP-DSA-Problems-and-explanation./tree/master/0435-non-overlapping-intervals) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Saisurya12365/CPP-DSA-Problems-and-explanation./tree/master/0628-maximum-product-of-three-numbers) |
 | [1631-path-with-minimum-effort](https://github.com/Saisurya12365/CPP-DSA-Problems-and-explanation./tree/master/1631-path-with-minimum-effort) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/Saisurya12365/CPP-DSA-Problems-and-explanation./tree/master/0045-jump-game-ii) |
 | [0120-triangle](https://github.com/Saisurya12365/CPP-DSA-Problems-and-explanation./tree/master/0120-triangle) |
 | [0198-house-robber](https://github.com/Saisurya12365/CPP-DSA-Problems-and-explanation./tree/master/0198-house-robber) |
+| [0213-house-robber-ii](https://github.com/Saisurya12365/CPP-DSA-Problems-and-explanation./tree/master/0213-house-robber-ii) |
 | [0435-non-overlapping-intervals](https://github.com/Saisurya12365/CPP-DSA-Problems-and-explanation./tree/master/0435-non-overlapping-intervals) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Saisurya12365/CPP-DSA-Problems-and-explanation./tree/master/0787-cheapest-flights-within-k-stops) |
 | [3693-climbing-stairs-ii](https://github.com/Saisurya12365/CPP-DSA-Problems-and-explanation./tree/master/3693-climbing-stairs-ii) |
