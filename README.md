@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0135-candy](https://github.com/Saisurya12365/CPP-DSA-Problems-and-explanation./tree/master/0135-candy) |
 | [0198-house-robber](https://github.com/Saisurya12365/CPP-DSA-Problems-and-explanation./tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Saisurya12365/CPP-DSA-Problems-and-explanation./tree/master/0213-house-robber-ii) |
+| [0300-longest-increasing-subsequence](https://github.com/Saisurya12365/CPP-DSA-Problems-and-explanation./tree/master/0300-longest-increasing-subsequence) |
 | [0435-non-overlapping-intervals](https://github.com/Saisurya12365/CPP-DSA-Problems-and-explanation./tree/master/0435-non-overlapping-intervals) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Saisurya12365/CPP-DSA-Problems-and-explanation./tree/master/0628-maximum-product-of-three-numbers) |
 | [1631-path-with-minimum-effort](https://github.com/Saisurya12365/CPP-DSA-Problems-and-explanation./tree/master/1631-path-with-minimum-effort) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0120-triangle](https://github.com/Saisurya12365/CPP-DSA-Problems-and-explanation./tree/master/0120-triangle) |
 | [0198-house-robber](https://github.com/Saisurya12365/CPP-DSA-Problems-and-explanation./tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Saisurya12365/CPP-DSA-Problems-and-explanation./tree/master/0213-house-robber-ii) |
+| [0300-longest-increasing-subsequence](https://github.com/Saisurya12365/CPP-DSA-Problems-and-explanation./tree/master/0300-longest-increasing-subsequence) |
 | [0435-non-overlapping-intervals](https://github.com/Saisurya12365/CPP-DSA-Problems-and-explanation./tree/master/0435-non-overlapping-intervals) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Saisurya12365/CPP-DSA-Problems-and-explanation./tree/master/0787-cheapest-flights-within-k-stops) |
 | [3693-climbing-stairs-ii](https://github.com/Saisurya12365/CPP-DSA-Problems-and-explanation./tree/master/3693-climbing-stairs-ii) |
@@ -79,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0300-longest-increasing-subsequence](https://github.com/Saisurya12365/CPP-DSA-Problems-and-explanation./tree/master/0300-longest-increasing-subsequence) |
 | [1631-path-with-minimum-effort](https://github.com/Saisurya12365/CPP-DSA-Problems-and-explanation./tree/master/1631-path-with-minimum-effort) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Saisurya12365/CPP-DSA-Problems-and-explanation./tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Heap (Priority Queue)
