@@ -141,4 +141,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Saisurya12365/CPP-DSA-Problems-and-explanation./tree/master/0653-two-sum-iv-input-is-a-bst) |
+## String
+|  |
+| ------- |
+| [0038-count-and-say](https://github.com/Saisurya12365/CPP-DSA-Problems-and-explanation./tree/master/0038-count-and-say) |
 <!---LeetCode Topics End-->
