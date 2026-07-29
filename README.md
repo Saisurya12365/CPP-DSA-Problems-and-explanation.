@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Saisurya12365/CPP-DSA-Problems-and-explanation./tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0045-jump-game-ii](https://github.com/Saisurya12365/CPP-DSA-Problems-and-explanation./tree/master/0045-jump-game-ii) |
 | [0056-merge-intervals](https://github.com/Saisurya12365/CPP-DSA-Problems-and-explanation./tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/Saisurya12365/CPP-DSA-Problems-and-explanation./tree/master/0057-insert-interval) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Saisurya12365/CPP-DSA-Problems-and-explanation./tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0349-intersection-of-two-arrays](https://github.com/Saisurya12365/CPP-DSA-Problems-and-explanation./tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Saisurya12365/CPP-DSA-Problems-and-explanation./tree/master/0350-intersection-of-two-arrays-ii) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Saisurya12365/CPP-DSA-Problems-and-explanation./tree/master/0653-two-sum-iv-input-is-a-bst) |
