@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0436-find-right-interval](https://github.com/Saisurya12365/CPP-DSA-Problems-and-explanation./tree/master/0436-find-right-interval) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Saisurya12365/CPP-DSA-Problems-and-explanation./tree/master/0628-maximum-product-of-three-numbers) |
 | [0658-find-k-closest-elements](https://github.com/Saisurya12365/CPP-DSA-Problems-and-explanation./tree/master/0658-find-k-closest-elements) |
+| [0819-most-common-word](https://github.com/Saisurya12365/CPP-DSA-Problems-and-explanation./tree/master/0819-most-common-word) |
 | [1631-path-with-minimum-effort](https://github.com/Saisurya12365/CPP-DSA-Problems-and-explanation./tree/master/1631-path-with-minimum-effort) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Saisurya12365/CPP-DSA-Problems-and-explanation./tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3693-climbing-stairs-ii](https://github.com/Saisurya12365/CPP-DSA-Problems-and-explanation./tree/master/3693-climbing-stairs-ii) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Saisurya12365/CPP-DSA-Problems-and-explanation./tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Saisurya12365/CPP-DSA-Problems-and-explanation./tree/master/0350-intersection-of-two-arrays-ii) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Saisurya12365/CPP-DSA-Problems-and-explanation./tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0819-most-common-word](https://github.com/Saisurya12365/CPP-DSA-Problems-and-explanation./tree/master/0819-most-common-word) |
 ## Two Pointers
 |  |
 | ------- |
@@ -171,8 +173,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Saisurya12365/CPP-DSA-Problems-and-explanation./tree/master/0005-longest-palindromic-substring) |
 | [0038-count-and-say](https://github.com/Saisurya12365/CPP-DSA-Problems-and-explanation./tree/master/0038-count-and-say) |
+| [0819-most-common-word](https://github.com/Saisurya12365/CPP-DSA-Problems-and-explanation./tree/master/0819-most-common-word) |
 ## Sliding Window
 |  |
 | ------- |
 | [0658-find-k-closest-elements](https://github.com/Saisurya12365/CPP-DSA-Problems-and-explanation./tree/master/0658-find-k-closest-elements) |
+## Counting
+|  |
+| ------- |
+| [0819-most-common-word](https://github.com/Saisurya12365/CPP-DSA-Problems-and-explanation./tree/master/0819-most-common-word) |
 <!---LeetCode Topics End-->
