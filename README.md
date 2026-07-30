@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Saisurya12365/CPP-DSA-Problems-and-explanation./tree/master/0005-longest-palindromic-substring) |
 | [0045-jump-game-ii](https://github.com/Saisurya12365/CPP-DSA-Problems-and-explanation./tree/master/0045-jump-game-ii) |
 | [0120-triangle](https://github.com/Saisurya12365/CPP-DSA-Problems-and-explanation./tree/master/0120-triangle) |
 | [0198-house-robber](https://github.com/Saisurya12365/CPP-DSA-Problems-and-explanation./tree/master/0198-house-robber) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Saisurya12365/CPP-DSA-Problems-and-explanation./tree/master/0005-longest-palindromic-substring) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Saisurya12365/CPP-DSA-Problems-and-explanation./tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0349-intersection-of-two-arrays](https://github.com/Saisurya12365/CPP-DSA-Problems-and-explanation./tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Saisurya12365/CPP-DSA-Problems-and-explanation./tree/master/0350-intersection-of-two-arrays-ii) |
@@ -167,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Saisurya12365/CPP-DSA-Problems-and-explanation./tree/master/0005-longest-palindromic-substring) |
 | [0038-count-and-say](https://github.com/Saisurya12365/CPP-DSA-Problems-and-explanation./tree/master/0038-count-and-say) |
 ## Sliding Window
 |  |
