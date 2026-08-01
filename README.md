@@ -199,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0040-combination-sum-ii](https://github.com/Saisurya12365/CPP-DSA-Problems-and-explanation./tree/master/0040-combination-sum-ii) |
+| [0077-combinations](https://github.com/Saisurya12365/CPP-DSA-Problems-and-explanation./tree/master/0077-combinations) |
 ## Enumeration
 |  |
 | ------- |
