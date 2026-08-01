@@ -194,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0092-reverse-linked-list-ii](https://github.com/Saisurya12365/CPP-DSA-Problems-and-explanation./tree/master/0092-reverse-linked-list-ii) |
 | [0141-linked-list-cycle](https://github.com/Saisurya12365/CPP-DSA-Problems-and-explanation./tree/master/0141-linked-list-cycle) |
 ## Backtracking
 |  |
