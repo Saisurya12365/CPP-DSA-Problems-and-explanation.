@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Saisurya12365/CPP-DSA-Problems-and-explanation./tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0040-combination-sum-ii](https://github.com/Saisurya12365/CPP-DSA-Problems-and-explanation./tree/master/0040-combination-sum-ii) |
 | [0045-jump-game-ii](https://github.com/Saisurya12365/CPP-DSA-Problems-and-explanation./tree/master/0045-jump-game-ii) |
+| [0049-group-anagrams](https://github.com/Saisurya12365/CPP-DSA-Problems-and-explanation./tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/Saisurya12365/CPP-DSA-Problems-and-explanation./tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/Saisurya12365/CPP-DSA-Problems-and-explanation./tree/master/0057-insert-interval) |
 | [0120-triangle](https://github.com/Saisurya12365/CPP-DSA-Problems-and-explanation./tree/master/0120-triangle) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Saisurya12365/CPP-DSA-Problems-and-explanation./tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/Saisurya12365/CPP-DSA-Problems-and-explanation./tree/master/0056-merge-intervals) |
 | [0349-intersection-of-two-arrays](https://github.com/Saisurya12365/CPP-DSA-Problems-and-explanation./tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Saisurya12365/CPP-DSA-Problems-and-explanation./tree/master/0350-intersection-of-two-arrays-ii) |
@@ -154,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Saisurya12365/CPP-DSA-Problems-and-explanation./tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/Saisurya12365/CPP-DSA-Problems-and-explanation./tree/master/0141-linked-list-cycle) |
 | [0349-intersection-of-two-arrays](https://github.com/Saisurya12365/CPP-DSA-Problems-and-explanation./tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Saisurya12365/CPP-DSA-Problems-and-explanation./tree/master/0350-intersection-of-two-arrays-ii) |
@@ -178,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Saisurya12365/CPP-DSA-Problems-and-explanation./tree/master/0005-longest-palindromic-substring) |
 | [0038-count-and-say](https://github.com/Saisurya12365/CPP-DSA-Problems-and-explanation./tree/master/0038-count-and-say) |
+| [0049-group-anagrams](https://github.com/Saisurya12365/CPP-DSA-Problems-and-explanation./tree/master/0049-group-anagrams) |
 | [0819-most-common-word](https://github.com/Saisurya12365/CPP-DSA-Problems-and-explanation./tree/master/0819-most-common-word) |
 ## Sliding Window
 |  |
