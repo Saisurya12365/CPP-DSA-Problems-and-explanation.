@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/Saisurya12365/CPP-DSA-Problems-and-explanation./tree/master/0130-surrounded-regions) |
 | [0207-course-schedule](https://github.com/Saisurya12365/CPP-DSA-Problems-and-explanation./tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Saisurya12365/CPP-DSA-Problems-and-explanation./tree/master/0210-course-schedule-ii) |
+| [0341-flatten-nested-list-iterator](https://github.com/Saisurya12365/CPP-DSA-Problems-and-explanation./tree/master/0341-flatten-nested-list-iterator) |
 | [0563-binary-tree-tilt](https://github.com/Saisurya12365/CPP-DSA-Problems-and-explanation./tree/master/0563-binary-tree-tilt) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Saisurya12365/CPP-DSA-Problems-and-explanation./tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Saisurya12365/CPP-DSA-Problems-and-explanation./tree/master/0787-cheapest-flights-within-k-stops) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Saisurya12365/CPP-DSA-Problems-and-explanation./tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Saisurya12365/CPP-DSA-Problems-and-explanation./tree/master/0112-path-sum) |
+| [0341-flatten-nested-list-iterator](https://github.com/Saisurya12365/CPP-DSA-Problems-and-explanation./tree/master/0341-flatten-nested-list-iterator) |
 | [0563-binary-tree-tilt](https://github.com/Saisurya12365/CPP-DSA-Problems-and-explanation./tree/master/0563-binary-tree-tilt) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Saisurya12365/CPP-DSA-Problems-and-explanation./tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Binary Tree
@@ -222,8 +224,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0284-peeking-iterator](https://github.com/Saisurya12365/CPP-DSA-Problems-and-explanation./tree/master/0284-peeking-iterator) |
+| [0341-flatten-nested-list-iterator](https://github.com/Saisurya12365/CPP-DSA-Problems-and-explanation./tree/master/0341-flatten-nested-list-iterator) |
 ## Iterator
 |  |
 | ------- |
 | [0284-peeking-iterator](https://github.com/Saisurya12365/CPP-DSA-Problems-and-explanation./tree/master/0284-peeking-iterator) |
+| [0341-flatten-nested-list-iterator](https://github.com/Saisurya12365/CPP-DSA-Problems-and-explanation./tree/master/0341-flatten-nested-list-iterator) |
+## Stack
+|  |
+| ------- |
+| [0341-flatten-nested-list-iterator](https://github.com/Saisurya12365/CPP-DSA-Problems-and-explanation./tree/master/0341-flatten-nested-list-iterator) |
+## Queue
+|  |
+| ------- |
+| [0341-flatten-nested-list-iterator](https://github.com/Saisurya12365/CPP-DSA-Problems-and-explanation./tree/master/0341-flatten-nested-list-iterator) |
 <!---LeetCode Topics End-->
