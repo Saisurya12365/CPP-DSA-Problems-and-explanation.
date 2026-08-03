@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0396-rotate-function](https://github.com/Saisurya12365/CPP-DSA-Problems-and-explanation./tree/master/0396-rotate-function) |
 | [0435-non-overlapping-intervals](https://github.com/Saisurya12365/CPP-DSA-Problems-and-explanation./tree/master/0435-non-overlapping-intervals) |
 | [0436-find-right-interval](https://github.com/Saisurya12365/CPP-DSA-Problems-and-explanation./tree/master/0436-find-right-interval) |
+| [0447-number-of-boomerangs](https://github.com/Saisurya12365/CPP-DSA-Problems-and-explanation./tree/master/0447-number-of-boomerangs) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Saisurya12365/CPP-DSA-Problems-and-explanation./tree/master/0628-maximum-product-of-three-numbers) |
 | [0658-find-k-closest-elements](https://github.com/Saisurya12365/CPP-DSA-Problems-and-explanation./tree/master/0658-find-k-closest-elements) |
 | [0819-most-common-word](https://github.com/Saisurya12365/CPP-DSA-Problems-and-explanation./tree/master/0819-most-common-word) |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0204-count-primes](https://github.com/Saisurya12365/CPP-DSA-Problems-and-explanation./tree/master/0204-count-primes) |
 | [0396-rotate-function](https://github.com/Saisurya12365/CPP-DSA-Problems-and-explanation./tree/master/0396-rotate-function) |
+| [0447-number-of-boomerangs](https://github.com/Saisurya12365/CPP-DSA-Problems-and-explanation./tree/master/0447-number-of-boomerangs) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Saisurya12365/CPP-DSA-Problems-and-explanation./tree/master/0628-maximum-product-of-three-numbers) |
 ## Hash Table
 |  |
@@ -166,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Saisurya12365/CPP-DSA-Problems-and-explanation./tree/master/0141-linked-list-cycle) |
 | [0349-intersection-of-two-arrays](https://github.com/Saisurya12365/CPP-DSA-Problems-and-explanation./tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Saisurya12365/CPP-DSA-Problems-and-explanation./tree/master/0350-intersection-of-two-arrays-ii) |
+| [0447-number-of-boomerangs](https://github.com/Saisurya12365/CPP-DSA-Problems-and-explanation./tree/master/0447-number-of-boomerangs) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Saisurya12365/CPP-DSA-Problems-and-explanation./tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0819-most-common-word](https://github.com/Saisurya12365/CPP-DSA-Problems-and-explanation./tree/master/0819-most-common-word) |
 ## Two Pointers
