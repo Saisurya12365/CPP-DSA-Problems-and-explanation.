@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/Saisurya12365/CPP-DSA-Problems-and-explanation./tree/master/0198-house-robber) |
 | [0204-count-primes](https://github.com/Saisurya12365/CPP-DSA-Problems-and-explanation./tree/master/0204-count-primes) |
 | [0213-house-robber-ii](https://github.com/Saisurya12365/CPP-DSA-Problems-and-explanation./tree/master/0213-house-robber-ii) |
+| [0284-peeking-iterator](https://github.com/Saisurya12365/CPP-DSA-Problems-and-explanation./tree/master/0284-peeking-iterator) |
 | [0300-longest-increasing-subsequence](https://github.com/Saisurya12365/CPP-DSA-Problems-and-explanation./tree/master/0300-longest-increasing-subsequence) |
 | [0349-intersection-of-two-arrays](https://github.com/Saisurya12365/CPP-DSA-Problems-and-explanation./tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Saisurya12365/CPP-DSA-Problems-and-explanation./tree/master/0350-intersection-of-two-arrays-ii) |
@@ -209,4 +210,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Saisurya12365/CPP-DSA-Problems-and-explanation./tree/master/0204-count-primes) |
+## Design
+|  |
+| ------- |
+| [0284-peeking-iterator](https://github.com/Saisurya12365/CPP-DSA-Problems-and-explanation./tree/master/0284-peeking-iterator) |
+## Iterator
+|  |
+| ------- |
+| [0284-peeking-iterator](https://github.com/Saisurya12365/CPP-DSA-Problems-and-explanation./tree/master/0284-peeking-iterator) |
 <!---LeetCode Topics End-->
