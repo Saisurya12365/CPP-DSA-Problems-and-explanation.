@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0334-increasing-triplet-subsequence](https://github.com/Saisurya12365/CPP-DSA-Problems-and-explanation./tree/master/0334-increasing-triplet-subsequence) |
 | [0349-intersection-of-two-arrays](https://github.com/Saisurya12365/CPP-DSA-Problems-and-explanation./tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Saisurya12365/CPP-DSA-Problems-and-explanation./tree/master/0350-intersection-of-two-arrays-ii) |
+| [0396-rotate-function](https://github.com/Saisurya12365/CPP-DSA-Problems-and-explanation./tree/master/0396-rotate-function) |
 | [0435-non-overlapping-intervals](https://github.com/Saisurya12365/CPP-DSA-Problems-and-explanation./tree/master/0435-non-overlapping-intervals) |
 | [0436-find-right-interval](https://github.com/Saisurya12365/CPP-DSA-Problems-and-explanation./tree/master/0436-find-right-interval) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Saisurya12365/CPP-DSA-Problems-and-explanation./tree/master/0628-maximum-product-of-three-numbers) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/Saisurya12365/CPP-DSA-Problems-and-explanation./tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Saisurya12365/CPP-DSA-Problems-and-explanation./tree/master/0213-house-robber-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/Saisurya12365/CPP-DSA-Problems-and-explanation./tree/master/0300-longest-increasing-subsequence) |
+| [0396-rotate-function](https://github.com/Saisurya12365/CPP-DSA-Problems-and-explanation./tree/master/0396-rotate-function) |
 | [0435-non-overlapping-intervals](https://github.com/Saisurya12365/CPP-DSA-Problems-and-explanation./tree/master/0435-non-overlapping-intervals) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Saisurya12365/CPP-DSA-Problems-and-explanation./tree/master/0787-cheapest-flights-within-k-stops) |
 | [3693-climbing-stairs-ii](https://github.com/Saisurya12365/CPP-DSA-Problems-and-explanation./tree/master/3693-climbing-stairs-ii) |
@@ -155,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Saisurya12365/CPP-DSA-Problems-and-explanation./tree/master/0204-count-primes) |
+| [0396-rotate-function](https://github.com/Saisurya12365/CPP-DSA-Problems-and-explanation./tree/master/0396-rotate-function) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Saisurya12365/CPP-DSA-Problems-and-explanation./tree/master/0628-maximum-product-of-three-numbers) |
 ## Hash Table
 |  |
