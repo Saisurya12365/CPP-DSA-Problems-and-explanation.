@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0819-most-common-word](https://github.com/Saisurya12365/CPP-DSA-Problems-and-explanation./tree/master/0819-most-common-word) |
 | [1631-path-with-minimum-effort](https://github.com/Saisurya12365/CPP-DSA-Problems-and-explanation./tree/master/1631-path-with-minimum-effort) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Saisurya12365/CPP-DSA-Problems-and-explanation./tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Saisurya12365/CPP-DSA-Problems-and-explanation./tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3693-climbing-stairs-ii](https://github.com/Saisurya12365/CPP-DSA-Problems-and-explanation./tree/master/3693-climbing-stairs-ii) |
 ## Greedy
 |  |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0787-cheapest-flights-within-k-stops](https://github.com/Saisurya12365/CPP-DSA-Problems-and-explanation./tree/master/0787-cheapest-flights-within-k-stops) |
 | [1631-path-with-minimum-effort](https://github.com/Saisurya12365/CPP-DSA-Problems-and-explanation./tree/master/1631-path-with-minimum-effort) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Saisurya12365/CPP-DSA-Problems-and-explanation./tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Saisurya12365/CPP-DSA-Problems-and-explanation./tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Concurrency
 |  |
 | ------- |
@@ -177,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0447-number-of-boomerangs](https://github.com/Saisurya12365/CPP-DSA-Problems-and-explanation./tree/master/0447-number-of-boomerangs) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Saisurya12365/CPP-DSA-Problems-and-explanation./tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0819-most-common-word](https://github.com/Saisurya12365/CPP-DSA-Problems-and-explanation./tree/master/0819-most-common-word) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Saisurya12365/CPP-DSA-Problems-and-explanation./tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -211,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0092-reverse-linked-list-ii](https://github.com/Saisurya12365/CPP-DSA-Problems-and-explanation./tree/master/0092-reverse-linked-list-ii) |
 | [0141-linked-list-cycle](https://github.com/Saisurya12365/CPP-DSA-Problems-and-explanation./tree/master/0141-linked-list-cycle) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Saisurya12365/CPP-DSA-Problems-and-explanation./tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Backtracking
 |  |
 | ------- |
@@ -242,4 +246,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0341-flatten-nested-list-iterator](https://github.com/Saisurya12365/CPP-DSA-Problems-and-explanation./tree/master/0341-flatten-nested-list-iterator) |
+## Simulation
+|  |
+| ------- |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Saisurya12365/CPP-DSA-Problems-and-explanation./tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Saisurya12365/CPP-DSA-Problems-and-explanation./tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+## Ordered Set
+|  |
+| ------- |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Saisurya12365/CPP-DSA-Problems-and-explanation./tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 <!---LeetCode Topics End-->
