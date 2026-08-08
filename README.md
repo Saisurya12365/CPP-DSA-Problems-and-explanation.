@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/Saisurya12365/CPP-DSA-Problems-and-explanation./tree/master/0213-house-robber-ii) |
 | [0284-peeking-iterator](https://github.com/Saisurya12365/CPP-DSA-Problems-and-explanation./tree/master/0284-peeking-iterator) |
 | [0300-longest-increasing-subsequence](https://github.com/Saisurya12365/CPP-DSA-Problems-and-explanation./tree/master/0300-longest-increasing-subsequence) |
+| [0307-range-sum-query-mutable](https://github.com/Saisurya12365/CPP-DSA-Problems-and-explanation./tree/master/0307-range-sum-query-mutable) |
 | [0334-increasing-triplet-subsequence](https://github.com/Saisurya12365/CPP-DSA-Problems-and-explanation./tree/master/0334-increasing-triplet-subsequence) |
 | [0349-intersection-of-two-arrays](https://github.com/Saisurya12365/CPP-DSA-Problems-and-explanation./tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Saisurya12365/CPP-DSA-Problems-and-explanation./tree/master/0350-intersection-of-two-arrays-ii) |
@@ -232,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0284-peeking-iterator](https://github.com/Saisurya12365/CPP-DSA-Problems-and-explanation./tree/master/0284-peeking-iterator) |
+| [0307-range-sum-query-mutable](https://github.com/Saisurya12365/CPP-DSA-Problems-and-explanation./tree/master/0307-range-sum-query-mutable) |
 | [0341-flatten-nested-list-iterator](https://github.com/Saisurya12365/CPP-DSA-Problems-and-explanation./tree/master/0341-flatten-nested-list-iterator) |
 ## Iterator
 |  |
@@ -258,4 +260,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Saisurya12365/CPP-DSA-Problems-and-explanation./tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0307-range-sum-query-mutable](https://github.com/Saisurya12365/CPP-DSA-Problems-and-explanation./tree/master/0307-range-sum-query-mutable) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0307-range-sum-query-mutable](https://github.com/Saisurya12365/CPP-DSA-Problems-and-explanation./tree/master/0307-range-sum-query-mutable) |
+## Segment Tree
+|  |
+| ------- |
+| [0307-range-sum-query-mutable](https://github.com/Saisurya12365/CPP-DSA-Problems-and-explanation./tree/master/0307-range-sum-query-mutable) |
+## Sqrt Decomposition
+|  |
+| ------- |
+| [0307-range-sum-query-mutable](https://github.com/Saisurya12365/CPP-DSA-Problems-and-explanation./tree/master/0307-range-sum-query-mutable) |
 <!---LeetCode Topics End-->
