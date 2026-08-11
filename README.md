@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Saisurya12365/CPP-DSA-Problems-and-explanation./tree/master/0350-intersection-of-two-arrays-ii) |
 | [0436-find-right-interval](https://github.com/Saisurya12365/CPP-DSA-Problems-and-explanation./tree/master/0436-find-right-interval) |
 | [0658-find-k-closest-elements](https://github.com/Saisurya12365/CPP-DSA-Problems-and-explanation./tree/master/0658-find-k-closest-elements) |
+| [1201-ugly-number-iii](https://github.com/Saisurya12365/CPP-DSA-Problems-and-explanation./tree/master/1201-ugly-number-iii) |
 | [1268-search-suggestions-system](https://github.com/Saisurya12365/CPP-DSA-Problems-and-explanation./tree/master/1268-search-suggestions-system) |
 | [1631-path-with-minimum-effort](https://github.com/Saisurya12365/CPP-DSA-Problems-and-explanation./tree/master/1631-path-with-minimum-effort) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Saisurya12365/CPP-DSA-Problems-and-explanation./tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0396-rotate-function](https://github.com/Saisurya12365/CPP-DSA-Problems-and-explanation./tree/master/0396-rotate-function) |
 | [0447-number-of-boomerangs](https://github.com/Saisurya12365/CPP-DSA-Problems-and-explanation./tree/master/0447-number-of-boomerangs) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Saisurya12365/CPP-DSA-Problems-and-explanation./tree/master/0628-maximum-product-of-three-numbers) |
+| [1201-ugly-number-iii](https://github.com/Saisurya12365/CPP-DSA-Problems-and-explanation./tree/master/1201-ugly-number-iii) |
 ## Hash Table
 |  |
 | ------- |
@@ -234,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Saisurya12365/CPP-DSA-Problems-and-explanation./tree/master/0204-count-primes) |
+| [1201-ugly-number-iii](https://github.com/Saisurya12365/CPP-DSA-Problems-and-explanation./tree/master/1201-ugly-number-iii) |
 ## Design
 |  |
 | ------- |
@@ -285,4 +288,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1268-search-suggestions-system](https://github.com/Saisurya12365/CPP-DSA-Problems-and-explanation./tree/master/1268-search-suggestions-system) |
+## Combinatorics
+|  |
+| ------- |
+| [1201-ugly-number-iii](https://github.com/Saisurya12365/CPP-DSA-Problems-and-explanation./tree/master/1201-ugly-number-iii) |
+## Least Common Multiple
+|  |
+| ------- |
+| [1201-ugly-number-iii](https://github.com/Saisurya12365/CPP-DSA-Problems-and-explanation./tree/master/1201-ugly-number-iii) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [1201-ugly-number-iii](https://github.com/Saisurya12365/CPP-DSA-Problems-and-explanation./tree/master/1201-ugly-number-iii) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [1201-ugly-number-iii](https://github.com/Saisurya12365/CPP-DSA-Problems-and-explanation./tree/master/1201-ugly-number-iii) |
+## Inclusion-Exclusion Principle
+|  |
+| ------- |
+| [1201-ugly-number-iii](https://github.com/Saisurya12365/CPP-DSA-Problems-and-explanation./tree/master/1201-ugly-number-iii) |
 <!---LeetCode Topics End-->
