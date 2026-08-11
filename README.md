@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/Saisurya12365/CPP-DSA-Problems-and-explanation./tree/master/0628-maximum-product-of-three-numbers) |
 | [0658-find-k-closest-elements](https://github.com/Saisurya12365/CPP-DSA-Problems-and-explanation./tree/master/0658-find-k-closest-elements) |
 | [0819-most-common-word](https://github.com/Saisurya12365/CPP-DSA-Problems-and-explanation./tree/master/0819-most-common-word) |
+| [1268-search-suggestions-system](https://github.com/Saisurya12365/CPP-DSA-Problems-and-explanation./tree/master/1268-search-suggestions-system) |
 | [1631-path-with-minimum-effort](https://github.com/Saisurya12365/CPP-DSA-Problems-and-explanation./tree/master/1631-path-with-minimum-effort) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Saisurya12365/CPP-DSA-Problems-and-explanation./tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Saisurya12365/CPP-DSA-Problems-and-explanation./tree/master/3507-minimum-pair-removal-to-sort-array-i) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0436-find-right-interval](https://github.com/Saisurya12365/CPP-DSA-Problems-and-explanation./tree/master/0436-find-right-interval) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Saisurya12365/CPP-DSA-Problems-and-explanation./tree/master/0628-maximum-product-of-three-numbers) |
 | [0658-find-k-closest-elements](https://github.com/Saisurya12365/CPP-DSA-Problems-and-explanation./tree/master/0658-find-k-closest-elements) |
+| [1268-search-suggestions-system](https://github.com/Saisurya12365/CPP-DSA-Problems-and-explanation./tree/master/1268-search-suggestions-system) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -115,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Saisurya12365/CPP-DSA-Problems-and-explanation./tree/master/0350-intersection-of-two-arrays-ii) |
 | [0436-find-right-interval](https://github.com/Saisurya12365/CPP-DSA-Problems-and-explanation./tree/master/0436-find-right-interval) |
 | [0658-find-k-closest-elements](https://github.com/Saisurya12365/CPP-DSA-Problems-and-explanation./tree/master/0658-find-k-closest-elements) |
+| [1268-search-suggestions-system](https://github.com/Saisurya12365/CPP-DSA-Problems-and-explanation./tree/master/1268-search-suggestions-system) |
 | [1631-path-with-minimum-effort](https://github.com/Saisurya12365/CPP-DSA-Problems-and-explanation./tree/master/1631-path-with-minimum-effort) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Saisurya12365/CPP-DSA-Problems-and-explanation./tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Heap (Priority Queue)
@@ -122,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0658-find-k-closest-elements](https://github.com/Saisurya12365/CPP-DSA-Problems-and-explanation./tree/master/0658-find-k-closest-elements) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Saisurya12365/CPP-DSA-Problems-and-explanation./tree/master/0787-cheapest-flights-within-k-stops) |
+| [1268-search-suggestions-system](https://github.com/Saisurya12365/CPP-DSA-Problems-and-explanation./tree/master/1268-search-suggestions-system) |
 | [1631-path-with-minimum-effort](https://github.com/Saisurya12365/CPP-DSA-Problems-and-explanation./tree/master/1631-path-with-minimum-effort) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Saisurya12365/CPP-DSA-Problems-and-explanation./tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Saisurya12365/CPP-DSA-Problems-and-explanation./tree/master/3507-minimum-pair-removal-to-sort-array-i) |
@@ -202,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0038-count-and-say](https://github.com/Saisurya12365/CPP-DSA-Problems-and-explanation./tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/Saisurya12365/CPP-DSA-Problems-and-explanation./tree/master/0049-group-anagrams) |
 | [0819-most-common-word](https://github.com/Saisurya12365/CPP-DSA-Problems-and-explanation./tree/master/0819-most-common-word) |
+| [1268-search-suggestions-system](https://github.com/Saisurya12365/CPP-DSA-Problems-and-explanation./tree/master/1268-search-suggestions-system) |
 ## Sliding Window
 |  |
 | ------- |
@@ -276,4 +281,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0307-range-sum-query-mutable](https://github.com/Saisurya12365/CPP-DSA-Problems-and-explanation./tree/master/0307-range-sum-query-mutable) |
+## Trie
+|  |
+| ------- |
+| [1268-search-suggestions-system](https://github.com/Saisurya12365/CPP-DSA-Problems-and-explanation./tree/master/1268-search-suggestions-system) |
 <!---LeetCode Topics End-->
